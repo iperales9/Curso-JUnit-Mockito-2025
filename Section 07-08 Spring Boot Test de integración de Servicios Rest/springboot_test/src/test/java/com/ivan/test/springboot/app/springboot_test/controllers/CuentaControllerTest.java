@@ -1,8 +1,7 @@
-package com.ivan.test.springboot.app.springboot_test;
+package com.ivan.test.springboot.app.springboot_test.controllers;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ivan.test.springboot.app.springboot_test.controllers.CuentaController;
 import com.ivan.test.springboot.app.springboot_test.models.Cuenta;
 import com.ivan.test.springboot.app.springboot_test.models.TransferenciaDto;
 import com.ivan.test.springboot.app.springboot_test.services.CuentaService;
